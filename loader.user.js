@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==cheat==
 // @name        AposLoader
 // @namespace   AposLoader
 // @description Grabs latest versions of the bot scripts automatically.
@@ -6,7 +6,7 @@
 // @version     1.3
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
-// ==/UserScript==
+// ==/cheat==
 var aposLoaderVersion = 1.3;
 var sha = "efde0488cc2cc176db48dd23b28a20b90314352b";
 
