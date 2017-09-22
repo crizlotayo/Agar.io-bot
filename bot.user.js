@@ -21,8 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @encelencia  AposBot
+// @encelencia   AposBot
 // @include     http://agar.io/*
 // @version     3.651
 // @grant       none
@@ -119,7 +119,7 @@ window.botList = window.botList || [];
 window.botList.push(new QuickBot());*/
 
 function AposBot() {
-    this.name = "AposBot " + aposBotVersion;
+    this.name = "encelencia " + aposBotVersion;
 
     this.toggleFollow = false;
     this.keyAction = function(key) {
